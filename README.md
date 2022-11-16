@@ -17,7 +17,7 @@ function MyComponent(props) {
 For functional components, we'll be using the [`useState()`](https://reactjs.org/docs/hooks-state.html) hook. 
 
 ## Release 0: Setup
-* Use `create-react-app` to scaffold an app
+* Use `npm create vite` to scaffold an app
 
 ## Release 1: Detention
 * Write "I will never mutate state or props directly" 100 times. In other words create a functional component and reuse it 100 times.
